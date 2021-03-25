@@ -1,0 +1,26 @@
+package casestudy;
+
+
+public class CaseStudy {
+
+    //Kit Himmel C. Saborboro
+    static void method7(){
+            System.out.println("My name is Kit Himmel C. Saborboro");
+                    }
+    static void method8(){
+    System.out.println("I'm From Brgy. Dalayap, Tarlac");
+    }
+    static void method9(){
+    System.out.println("I'm 21 yrs old");
+    System.out.println("----------------------------------");
+    }
+	
+	
+
+ public static void main(String[] args) {
+        method7();
+        method8();
+        method9();
+	
+ }
+}
